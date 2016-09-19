@@ -9,5 +9,7 @@ public class Main
     Weapon knife = new Weapon(75, "Knife", 30); 
     
     System.out.println("The weight of a " + banana.getName() + " is " + banana.getWeight());
+    banana.setQuantity(9); 
+    System.out.println("The new quantity for " + banana.getName() + " is " + banana.getQuantity());
   }
 }
