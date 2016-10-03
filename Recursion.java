@@ -2,7 +2,7 @@
 Rainer Alvarado
 CSI213
 */
-public class Recursion 
+public class Babylonian_Recursion 
 {
   private double guess; 
   private double num, error;
